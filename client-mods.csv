@@ -124,3 +124,4 @@ mod name,id,source,link,type
 "Simple Voice Chat","416089","curseforge","https://edge.forgecdn.net/files/8601/219/voicechat-fabric-1.21.1-2.6.22.jar","both"
 "ultimine_addition-fabric-8.0.0-1.21.1","","direct","https://mediafilez.forgecdn.net/files/9360/178/ultimine_addition-fabric-8.0.0-1.21.1.jar","both"
 "coolcatlib-fabric-8.0.0+1.21.1","","direct","https://mediafilez.forgecdn.net/files/9333/477/coolcatlib-fabric-8.0.0%2B1.21.1.jar","both"
+"origin-claims-1.0.0","","direct","https://github.com/galactics-minecraft/origin-claims/releases/download/release/origin-claims-1.0.0.jar","both"
